@@ -1,6 +1,6 @@
-# yuuki's X posts
+# yuuki writes on X
 
-< [Texts](https://github.com/yuukiarchive/texts)
+< [write](https://github.com/yuuki7/write)
 
 * [@yuuki26](https://x.com/i/user/1463770680491593729)
     * Japanese: [@yuuki170](https://x.com/i/user/1672629051419410435)
