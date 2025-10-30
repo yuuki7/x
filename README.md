@@ -2,15 +2,13 @@
 
 < [write](https://github.com/yuuki7/write)
 
-* [@yuuki26](https://x.com/i/user/1463770680491593729)
-    * Japanese: [@yuuki170](https://x.com/i/user/1672629051419410435)
+- [@yuuki26](https://x.com/i/user/1463770680491593729)
+    - Japanese: [@yuuki170](https://x.com/i/user/1672629051419410435)
 
 ## Mirrors
 
-* [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170))
-* [Nitter](https://farside.link/nitter/i/user/1463770680491593729) ([jpn](https://farside.link/nitter/i/user/1672629051419410435))
+* [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub>
 * [Mastodon](https://mastodon.social/@yuukikonno)
-    * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
 * [Bluesky](https://bsky.app/profile/yuukikonno.mastodon.social.ap.brid.gy)
 
 ## Archives
