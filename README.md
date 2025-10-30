@@ -1,4 +1,4 @@
-# yuuki writes on X
+# yuuki posts on X
 
 < [write](https://github.com/yuuki7/write)
 
