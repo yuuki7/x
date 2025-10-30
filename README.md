@@ -8,8 +8,9 @@
 ## Mirrors
 
 * [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub>
+* [Threads](https://www.threads.com/@yuuki321)
+* [Bluesky](https://bsky.app/profile/yuukikonno.bsky.social)
 * [Mastodon](https://mastodon.social/@yuukikonno)
-* [Bluesky](https://bsky.app/profile/yuukikonno.mastodon.social.ap.brid.gy)
 
 ## Archives
 
