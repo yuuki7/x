@@ -5,7 +5,7 @@
 
 ## Mirrors
 
-- [Twilog](https://twilog.togetter.com/yuuki26) <sub>([jpn](https://twilog.togetter.com/yuuki170))</sub>
+- [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170))
 - [Threads](https://www.threads.com/@yuuki321)
 - [Bluesky](https://bsky.app/profile/yuukikonno.bsky.social)
 - [Mastodon](https://mastodon.social/@yuukikonno)
